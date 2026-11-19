@@ -2,7 +2,7 @@
 
 # Hossamaldeen Masmali · حسام
 
-**IT Specialist · Networks & Systems**
+**IT Specialist · Networks & Systems · Team Leader**
 
 [LinkedIn](https://www.linkedin.com/in/hossamaldeen-masmali) · [Projects](https://github.com/legend-h-99?tab=repositories)
 
@@ -12,7 +12,7 @@
 
 ## About me
 
-My background spans IT infrastructure and network and systems support. I have worked across data center operations and technical support.
+My background spans IT infrastructure, network and systems support, and team leadership. I have worked across data center operations and technical support.
 
 I am interested in making technology useful through reliable infrastructure, clear documentation, and tools that simplify everyday work.
 
@@ -43,7 +43,7 @@ Worked across data center operations, network support, systems support, and IT t
 
 ## نبذة بالعربية
 
-متخصص في تقنية المعلومات، بخلفية في الشبكات ودعم الأنظمة والخدمات التقنية.
+متخصص في تقنية المعلومات وقائد فريق، بخلفية في الشبكات ودعم الأنظمة والخدمات التقنية.
 
 أهتم بتوظيف التقنية لتحسين العمل، وتسهيل مشاركة المعرفة بالتوثيق الواضح. وتشمل مجالات عملي إدارة أجهزة الشبكات، وأنظمة Windows Server وLinux، إلى جانب تطوير أدوات رقمية تخدم التعليم والأعمال الصغيرة.
 
