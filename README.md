@@ -1,53 +1,58 @@
 <div align="center">
 
-# Hossam · حسام
+# Hossamaldeen Masmali · حسام
 
-**Arabic-first web applications for education and small businesses.**
+**IT Specialist · Technical Trainer · Networks & Systems**
 
-React · Next.js · TypeScript
-
-[Explore my repositories](https://github.com/legend-h-99?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/hossamaldeen-masmali) · [Projects](https://github.com/legend-h-99?tab=repositories)
 
 </div>
 
 ---
 
-I build web applications around everyday workflows, with a focus on Arabic interfaces, right-to-left layouts, and experiences that work well on mobile.
+## About me
 
-## Selected projects
+My background spans IT infrastructure, technical training, and academic department leadership. I have worked in network and systems support, supported training operations, and led a computer science department within the Technical and Vocational Training Corporation (TVTC).
 
-### [Sanad · سند](https://github.com/legend-h-99/course-grades-manager)
+I am interested in making technology useful through reliable infrastructure, practical training, clear documentation, and tools that simplify everyday work.
 
-An Arabic course-grade management application for trainers sharing the same course.
+## Professional experience
 
-- Join a shared course using a course code.
-- Import trainees, record theoretical and practical assessments, and calculate totals.
-- Export grade sheets to Excel.
+**Technical Trainer · TVTC**  
+Experience in technical training, course administration, trainee development, reporting, and coordination across training teams.
 
-**Built with:** React, TypeScript, Vite, Cloudflare Workers, and Supabase.
+**Head of the Computer Science Department · TVTC | 2021–2023**  
+Responsibilities included departmental administration and financial affairs, training operations, staff communication, initiatives, talent development, and reporting.
 
-### [Daftar · دفتر](https://github.com/legend-h-99/daftar)
+**IT Specialist · Tawadu International Co. | 2018**  
+Worked across data center operations, network support, systems support, and IT technical support.
 
-An Arabic accounting MVP for small businesses, including home-based food, coffee, and sweets sellers.
+## Areas of focus
 
-- Calculate product costs and suggested selling prices.
-- Manage invoices, expenses, and outstanding customer balances.
-- Review sales, expenses, and net profit in one dashboard.
+- **Networks & infrastructure:** Network device configuration, management, and support.
+- **Systems administration:** Windows Server installation and maintenance, and Linux administration.
+- **Technical training:** Course coordination, trainee development, and knowledge sharing.
+- **Department operations:** Administrative coordination, reporting, and team communication.
+- **Practical digital tools:** Applications that support education and small-business workflows.
 
-**Project scope:** An MVP with documented limitations; see the repository for implementation and deployment details.
+## Education
 
-## What I focus on
+- Bachelor of Engineering in Network Systems Support Engineering — College of Telecom & Electronics.
+- Diploma in Network Technology Engineering — College of Technology.
 
-- **Arabic user experiences:** RTL layouts, clear forms, and mobile-friendly interfaces.
-- **Education tools:** Shared course workflows, assessments, and reporting.
-- **Business applications:** Costing, invoicing, and everyday operations.
+## Selected digital projects
+
+| Project | Purpose |
+| --- | --- |
+| [Sanad · سند](https://github.com/legend-h-99/course-grades-manager) | Shared course-grade management, trainee imports, assessments, and Excel reporting. |
+| [Daftar · دفتر](https://github.com/legend-h-99/daftar) | An Arabic accounting MVP for product costing, invoicing, and expense tracking. |
 
 <div dir="rtl">
 
 ## نبذة بالعربية
 
-أنا حسام، أعمل على بناء تطبيقات ويب عربية تسهّل المهام اليومية في التعليم والأعمال الصغيرة. أهتم بوضوح تجربة الاستخدام، ودعم العربية واتجاه الكتابة من اليمين إلى اليسار، وسهولة الاستخدام على الجوال.
+متخصص في تقنية المعلومات ومدرّب تقني، بخلفية في الشبكات ودعم الأنظمة وإدارة العمليات التدريبية. سبق لي تولّي رئاسة قسم الحاسب الآلي في المؤسسة العامة للتدريب التقني والمهني، مع مسؤوليات في الشؤون الإدارية والمالية، وتنسيق التدريب، وتنمية المواهب، والتواصل وإعداد التقارير.
 
-من مشاريعي: **سند** لإدارة درجات المقررات المشتركة، و**دفتر** لإدارة التكاليف والفواتير والمصروفات للمشاريع الصغيرة.
+أهتم بتوظيف التقنية لتحسين العمل، ونقل المعرفة من خلال التدريب العملي والتوثيق الواضح. وتشمل مجالات عملي إدارة أجهزة الشبكات، وأنظمة Windows Server وLinux، إلى جانب تطوير أدوات رقمية تخدم التعليم والأعمال الصغيرة.
 
 </div>
