@@ -2,7 +2,7 @@
 
 # Hossamaldeen Masmali · حسام
 
-**IT Specialist · Networks & Systems · Team Leader**
+**IT Specialist · Networks & Systems · Cloud Architecture · Team Leader**
 
 [LinkedIn](https://www.linkedin.com/in/hossamaldeen-masmali) · [Projects](https://github.com/legend-h-99?tab=repositories)
 
@@ -24,6 +24,7 @@ Worked across data center operations, network support, systems support, and IT t
 ## Areas of focus
 
 - **Networks & infrastructure:** Network device configuration, management, and support.
+- **Cloud architecture:** Interest in designing cloud infrastructure and solutions.
 - **Systems administration:** Windows Server installation and maintenance, and Linux administration.
 - **Practical digital tools:** Applications that support education and small-business workflows.
 
@@ -45,6 +46,6 @@ Worked across data center operations, network support, systems support, and IT t
 
 متخصص في تقنية المعلومات وقائد فريق، بخلفية في الشبكات ودعم الأنظمة والخدمات التقنية.
 
-أهتم بتوظيف التقنية لتحسين العمل، وتسهيل مشاركة المعرفة بالتوثيق الواضح. وتشمل مجالات عملي إدارة أجهزة الشبكات، وأنظمة Windows Server وLinux، إلى جانب تطوير أدوات رقمية تخدم التعليم والأعمال الصغيرة.
+أهتم بتوظيف التقنية لتحسين العمل، وتسهيل مشاركة المعرفة بالتوثيق الواضح. وتشمل مجالات عملي إدارة أجهزة الشبكات، وأنظمة Windows Server وLinux، والاهتمام بالبنية المعمارية السحابية، إلى جانب تطوير أدوات رقمية تخدم التعليم والأعمال الصغيرة.
 
 </div>
